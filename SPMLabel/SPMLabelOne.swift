@@ -1,7 +1,7 @@
 #if os(iOS)
 import UIKit
 
-class SPMLabelOne: UILabel {
+public class SPMLabelOne: UILabel {
     
     override init(frame: CGRect) {
         super.init(frame: frame)
